@@ -1,6 +1,6 @@
 # HR-Dashboard-MySql-PowerBI
 
-![image](https://github.com/Bukkiee20/HR-Dashboard-MySql-PowerBI/blob/main/Screenshot/HR_dashboard.png)
+![HR_dashboard](https://user-images.githubusercontent.com/99342341/232165079-51adb3af-ddcb-4ff7-ad81-818fd82dc1d7.png)
 
 ## Data Used
 
